@@ -1,34 +1,34 @@
-## Usage
+<h1 align="center"> 🦍 SolidJS To-Do List 🦍</h1>
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+Introducing the ultimate to-do list app, built with SolidJS for lightning-fast performance and incredible flexibility.
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+With our app, you can easily add new items to your to-do list, remove outdated tasks, and check off completed tasks with just a few simple clicks.
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+Don't let unfinished tasks weigh you down anymore - let our app take care of it for you! 🦍💪
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+## Features
 
-## Available Scripts
+- 🦍 Easily add new tasks to your to-do list
+- 🦍 Quickly remove outdated tasks
+- 🦍 Check off completed tasks with a single click
+- 🦍 Built with SolidJS for unmatched speed and performance
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm dev` or `npm start`
+To get started with our app, follow these simple steps:
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone the project using the following command:
 
-The page will reload if you make edits.<br>
+   ```bash
+   git clone https://github.com/shalluv/to-do-list-solidjs.git
+   ```
 
-### `npm run build`
+   or just simply download the project as a zip file.
 
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
+2. Navigate to the project directory and install the dependencies using `pnpm install`
+3. Start the development server using `pnpm run dev`
+4. The app will now be running on `http://localhost:3000`
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Conclusion
 
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+Don't let unfinished tasks hold you back anymore - download our SolidJS to-do list app today and start getting things done! 🦍💪
